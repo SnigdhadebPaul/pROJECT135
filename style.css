@@ -1,0 +1,25 @@
+canvas{
+    border:5px solid red ;
+    border-radius:20px;
+    margin-top:25px;
+    }
+    body{
+        background-position: center;
+        background-size: cover;
+        background-color: aqua;
+        color:whitesmoke;
+        
+    }
+    .copyrightfooter{
+        background-color: antiquewhite;
+        color:brown;
+        text-align:center;
+       
+        bottom:0px;
+        font-size:25px;
+        position:fixed;
+        width:100%;
+
+    }
+
+    
